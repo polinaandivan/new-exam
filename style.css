@@ -1,0 +1,141 @@
+.qwer{
+	font-family: 'Dancing Script', cursive;
+    color: white;
+    font-size: 24px;
+    margin: 0px 255px;
+    padding: 15px 0px 0px 0px;
+    display: block;
+}
+.LOREM{
+	height: 85vh;
+    background: #e4e4e4;
+}
+.q1w2e3{
+    position: relative;
+    top: -72px;
+    left: 935px;
+    border: 2px solid #c7c7c7;
+    border-radius: 6px;
+    display: list-item;
+    list-style-type: none;
+    height: 20px;
+    width: 170px;
+}
+.w{
+	width: 100% !important;
+    height: 73vh;
+}
+.color{
+	color: #418fbf;
+}
+.wert{
+	color: #2290d6bf !important;
+    text-decoration: underline;
+}
+.q1w2{
+	    padding: 37px 155px;
+}
+.qwert{
+	background:black;
+	height: 10vh;
+}
+.q1w2e3r4{
+    position: relative;
+    left: 860px;
+    top: -25px;
+}
+*{
+	margin: 0;
+}
+ul{
+    list-style-type: none;
+}
+.qw{
+	color:white;
+	font-size: 30px;
+}
+li{
+	display: inline-block;
+	margin-left: 5px;
+}
+.menu{
+    background: #efefef7a;
+    height: 14vh;
+}
+.er{
+	    color: #5f5f5f;
+}
+h3{
+	    color: #484848;
+    text-align: center;
+}
+.p{
+	    color: #40799cbf !important;
+}
+h2{
+	color: #828282 !important;
+    position: relative;
+    text-align: center;
+    top: 55px;
+}
+.ty{
+	height: 20vh;
+}
+.qa{
+	height: 129px;
+}
+.e{
+	    margin-left: 146px;
+}
+.q1{
+	    color: #585858;
+}
+.r{
+	    color: #4c4c4c;
+    font-size: 145px !important;text-align: center;
+}
+.q{
+	    position: relative;
+    top: 90px;
+}
+.l{
+	    position: relative;
+    top: 100px;
+
+}
+.q1w2e3r4t5{
+		    color: #484848;
+    text-align: center;    width: 218px;
+}
+.o{
+	height: 100vh;
+	display: flex;
+	flex-wrap: wrap;
+	background: #c7c7c7;
+}
+.d{
+	height: 240px;
+    width: 255px;
+    overflow: hidden;
+    margin-left: 120px;
+    margin-top: 10px;
+}
+.qs{
+	height: 100px;width: 300px;
+}
+.aq{
+	    position: relative;
+    top: 15px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
